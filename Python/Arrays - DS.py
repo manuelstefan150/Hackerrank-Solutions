@@ -1,3 +1,5 @@
+# This is part of the Interview Preparation Kit
+
 import math
 import os
 import random
